@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+#1-Screenshot
+<img width="960" alt="Screenshot 2024-02-12 194522" src="https://github.com/shrikant-kushwah/displayProfile-Cryptonet-Tech-Pvt-Ltd/assets/96473205/9e173c56-046e-46ca-854a-fc27ac1d9f72">
 
-https://drive.google.com/file/d/1FLkQMe_z5jvcCu7M9ZLAVOKRxtvCPEd5/view?usp=sharing
+#2-Screenshot
+<img width="960" alt="Screenshot 2024-02-12 194612" src="https://github.com/shrikant-kushwah/displayProfile-Cryptonet-Tech-Pvt-Ltd/assets/96473205/883d62a0-ae94-4615-b170-2964a9c2808f">
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
